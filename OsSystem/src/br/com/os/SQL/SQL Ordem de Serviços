@@ -1,0 +1,119 @@
+INSERT INTO tb_ordem_servicos(data_os, tipo, situacao, equipamento, defeito, servico, tecnico, valor, id_cliente)
+VALUES ('2019-10-10','Ordem Serviço', 'Na bancada', 'Monitor LG', 'LED queimado', 'Fazer orçamento', 'Eduardo', 50.00, 1);
+
+INSERT INTO tb_ordem_servicos(data_os, tipo, situacao, equipamento, defeito, servico, tecnico, valor, id_cliente)
+VALUES ('2019-08-31','Ordem Serviço', 'Aguardando peças', 'Mouse Dell', 'Sensor com defeito', 'Trocar o sensor', 'Edson', 200.00,3);
+
+INSERT INTO tb_ordem_servicos(data_os, tipo, situacao, equipamento, defeito, servico, tecnico, valor, id_cliente)
+VALUES ('2019-10-20','Ordem Serviço', 'Abandonado', 'Teclado Redragon', 'Switch com defeito', 'Trocar switch', 'João', 100.00, 7);
+
+INSERT INTO tb_ordem_servicos(data_os, tipo, situacao, equipamento, defeito, servico, tecnico, valor, id_cliente)
+VALUES ('2019-09-15','Ordem Serviço', 'Aguardando Aprovação', 'Webcam Logitech', 'Fio rompido', 'Trocar fio usb', 'Vitor', 49.99, 2);
+
+INSERT INTO tb_ordem_servicos(data_os, tipo, situacao, equipamento, defeito, servico, tecnico, valor, id_cliente)
+VALUES ('2019-10-12','Ordem Serviço', 'Na bancada', ' Placa de video EGVA', 'Nao esta mandando imagem para o monitor', 'Fazer orçamento', 'Antonio', 90.00, 4);
+
+INSERT INTO tb_ordem_servicos(data_os, tipo, situacao, equipamento, defeito, servico, tecnico, valor, id_cliente)
+VALUES ('2019-10-13','Ordem Serviço', 'Entrega OK', 'Placa mãe ASUS', 'Pilha fraca', 'Trocar pinha', 'André', 29.89, 9);
+
+INSERT INTO tb_ordem_servicos(data_os, tipo, situacao, equipamento, defeito, servico, tecnico, valor, id_cliente)
+VALUES ('2019-11-18','Ordem Serviço', 'Aguardando Aprovação', 'Processador Intel', 'Pinos tortos', 'Trocar o jogo de pino', 'Thiago', 450.00, 5);
+
+INSERT INTO tb_ordem_servicos(data_os, tipo, situacao, equipamento, defeito, servico, tecnico, valor, id_cliente)
+VALUES ('2019-02-08','Ordem Serviço', 'Abandonado', 'Watercooler corsair ', 'Fan quebrada', 'Troca da Fan', 'Roberto', 79.00, 8);
+
+INSERT INTO tb_ordem_servicos(data_os, tipo, situacao, equipamento, defeito, servico, tecnico, valor, id_cliente)
+VALUES ('2019-03-15','Ordem Serviço', 'Aguardando peças', 'Modem Humax', 'Entrada de cabo de rede quebrada', 'Trocar entrada', 'Edvaldo', 110.00, 6);
+
+INSERT INTO tb_ordem_servicos(data_os, tipo, situacao, equipamento, defeito, servico, tecnico, valor, id_cliente)
+VALUES ('2019-06-22','Ordem Serviço', 'Na bancada', 'Headset Razer', 'Alça quebrada', 'Fazer orçamento', 'Sonia', 50.00, 10);
+
+INSERT INTO tb_ordem_servicos(data_os, tipo, situacao, equipamento, defeito, servico, tecnico, valor, id_cliente)
+VALUES ('2019-10-20','Ordem Serviço', 'Entrega OK', 'Placa mãe Gigabyte', 'Pilha fraca', 'Trocar pinha', 'André', 29.89, 12);
+
+INSERT INTO tb_ordem_servicos(data_os, tipo, situacao, equipamento, defeito, servico, tecnico, valor, id_cliente)
+VALUES ('2019-08-08','Ordem Serviço', 'Aguardando Aprovação', 'Processador AMD', 'Pinos tortos', 'Trocar o jogo de pino', 'Thiago', 450.00, 16);
+
+INSERT INTO tb_ordem_servicos(data_os, tipo, situacao, equipamento, defeito, servico, tecnico, valor, id_cliente)
+VALUES ('2019-07-08','Ordem Serviço', 'Abandonado', 'Watercooler Redragon ', 'Fan quebrada', 'Troca da Fan', 'Roberto', 79.00, 13);
+
+INSERT INTO tb_ordem_servicos(data_os, tipo, situacao, equipamento, defeito, servico, tecnico, valor, id_cliente)
+VALUES ('2019-05-02','Ordem Serviço', 'Aguardando peças', 'Modem Dlink', 'Antena quebrada', 'Trocar antena', 'Edvaldo', 39.00,18);
+
+INSERT INTO tb_ordem_servicos(data_os, tipo, situacao, equipamento, defeito, servico, tecnico, valor, id_cliente)
+VALUES ('2019-02-03','Ordem Serviço', 'Na bancada', 'Headset Logitch', 'Alça quebrada', 'Fazer orçamento', 'Sonia', 90.00, 17);
+
+INSERT INTO tb_ordem_servicos(data_os, tipo, situacao, equipamento, defeito, servico, tecnico, valor, id_cliente)
+VALUES ('2019-10-16','Ordem Serviço', 'Na bancada', 'Monitor dell', 'LED queimado', 'Fazer orçamento', 'Eduardo', 50.00, 20);
+
+INSERT INTO tb_ordem_servicos(data_os, tipo, situacao, equipamento, defeito, servico, tecnico, valor, id_cliente)
+VALUES ('2019-03-04','Ordem Serviço', 'Aguardando peças', 'Mouse Havit', 'Sensor com defeito', 'Trocar o sensor', 'Edson', 200.00,11);
+
+INSERT INTO tb_ordem_servicos(data_os, tipo, situacao, equipamento, defeito, servico, tecnico, valor, id_cliente)
+VALUES ('2019-09-14','Ordem Serviço', 'Abandonado', 'Teclado Haiz', 'Switch com defeito', 'Trocar switch', 'João', 9.00, 14);
+
+INSERT INTO tb_ordem_servicos(data_os, tipo, situacao, equipamento, defeito, servico, tecnico, valor, id_cliente)
+VALUES ('2019-07-13','Ordem Serviço', 'Aguardando Aprovação', 'Webcam HP', 'Fio rompido', 'Trocar fio usb', 'Vitor', 100.99, 19);
+
+INSERT INTO tb_ordem_servicos(data_os, tipo, situacao, equipamento, defeito, servico, tecnico, valor, id_cliente)
+VALUES ('2019-05-02','Ordem Serviço', 'Na bancada', ' Placa de video MSI', 'Nao esta mandando imagem para o monitor', 'Fazer orçamento', 'Antonio', 90.89, 15);
+
+INSERT INTO tb_ordem_servicos(data_os, tipo, situacao, equipamento, defeito, servico, tecnico, valor, id_cliente)
+VALUES ('2019-03-04','Ordem Serviço', 'Entrega OK', 'Placa mãe ZOTAC', 'Pilha fraca', 'Trocar pinha', 'André', 44.89, 21);
+
+INSERT INTO tb_ordem_servicos(data_os, tipo, situacao, equipamento, defeito, servico, tecnico, valor, id_cliente)
+VALUES ('2019-01-22','Ordem Serviço', 'Aguardando Aprovação', 'Processador AMD', 'Processador em alta temperatura', 'Fazer delid', 'Thiago', 100.00,28);
+
+INSERT INTO tb_ordem_servicos(data_os, tipo, situacao, equipamento, defeito, servico, tecnico, valor, id_cliente)
+VALUES ('2019-10-30','Ordem Serviço', 'Abandonado', 'Watercooler Deepcool ', 'RBG com led queimado', 'Trocar led', 'Roberto', 50.00, 24);
+
+INSERT INTO tb_ordem_servicos(data_os, tipo, situacao, equipamento, defeito, servico, tecnico, valor, id_cliente)
+VALUES ('2019-08-22','Ordem Serviço', 'Aguardando peças', 'Modem Huawei', 'Entrada cabo fonte com defeito', 'Trocar a entrada da fonte', 'Edvaldo', 60.00, 30);
+
+INSERT INTO tb_ordem_servicos(data_os, tipo, situacao, equipamento, defeito, servico, tecnico, valor, id_cliente)
+VALUES ('2019-06-28','Ordem Serviço', 'Na bancada', 'Headset Hyperx', 'Placa de som com mal contato', 'Fazer pedido da peça', 'Sonia', 99.00, 27);
+
+INSERT INTO tb_ordem_servicos(data_os, tipo, situacao, equipamento, defeito, servico, tecnico, valor, id_cliente)
+VALUES ('2019-04-27','Ordem Serviço', 'Na bancada', 'Monitor ACER', 'Apresentando Burn in ', 'Fazer orçamento', 'Eduardo', 50.00, 23);
+
+INSERT INTO tb_ordem_servicos(data_os, tipo, situacao, equipamento, defeito, servico, tecnico, valor, id_cliente)
+VALUES ('2019-02-15','Ordem Serviço', 'Aguardando peças', 'Mouse Havit', 'Sensor com defeito', 'Trocar o sensor', 'Edson', 100.00,22);
+
+INSERT INTO tb_ordem_servicos(data_os, tipo, situacao, equipamento, defeito, servico, tecnico, valor, id_cliente)
+VALUES ('2019-01-16','Ordem Serviço', 'Abandonado', 'Teclado coolermaster', '2 led quiemado do a tecla B e (.)', 'Trocar os leds ', 'João', 19.89, 26);
+
+INSERT INTO tb_ordem_servicos(data_os, tipo, situacao, equipamento, defeito, servico, tecnico, valor, id_cliente)
+VALUES ('2019-03-25','Ordem Serviço', 'Aguardando Aprovação', 'Webcam Microsoft', 'Vidro da camera quebrado', 'Trocar vidro', 'Vitor', 58.99, 25);
+
+INSERT INTO tb_ordem_servicos(data_os, tipo, situacao, equipamento, defeito, servico, tecnico, valor, id_cliente)
+VALUES ('2019-10-23','Ordem Serviço', 'Na bancada', ' Placa de video Gigabute', 'Fan parou de fucionar', 'Trocar a FAN', 'Antonio', 149.89, 29);
+
+INSERT INTO tb_ordem_servicos(data_os, tipo, situacao, equipamento, defeito, servico, tecnico, valor, id_cliente)
+VALUES ('2019-06-22','Ordem Serviço', 'Aguardando peças', 'Mouse HP', 'Switch do botão direto com mal fucionando', 'Trocar o switch', 'Edson', 200.00,3);
+
+INSERT INTO tb_ordem_servicos(data_os, tipo, situacao, equipamento, defeito, servico, tecnico, valor, id_cliente)
+VALUES ('2019-08-10','Ordem Serviço', 'Abandonado', 'Teclado Hyperx', 'botao de mutar volume nao esta funcionamento', 'trocar botao', 'João', 49.00, 14); 
+
+INSERT INTO tb_ordem_servicos(data_os, tipo, situacao, equipamento, defeito, servico, tecnico, valor, id_cliente)
+VALUES ('2019-10-10','Ordem Serviço', 'Aguardando Aprovação', 'Webcam Logitech', 'Prendedor quebrado', 'Trocar prendendor', 'Vitor', 29.99, 2);
+
+INSERT INTO tb_ordem_servicos(data_os, tipo, situacao, equipamento, defeito, servico, tecnico, valor, id_cliente)
+VALUES ('2019-05-05','Ordem Serviço', 'Aguardando peças', 'Modem Fiberhome ', 'Antena quebrada', 'Trocar antena', 'Edvaldo', 39.00,18);
+
+INSERT INTO tb_ordem_servicos(data_os, tipo, situacao, equipamento, defeito, servico, tecnico, valor, id_cliente)
+VALUES ('2019-10-02','Ordem Serviço', 'Na bancada', 'Headset Logitch', 'Alça quebrada', 'Fazer orçamento', 'Sonia', 50.00, 23);
+
+INSERT INTO tb_ordem_servicos(data_os, tipo, situacao, equipamento, defeito, servico, tecnico, valor, id_cliente)
+VALUES ('2019-06-07','Ordem Serviço', 'Entrega OK', 'Placa mãe Gigabyte', 'Pilha fraca', 'Trocar pinha', 'André', 29.89, 37);
+
+INSERT INTO tb_ordem_servicos(data_os, tipo, situacao, equipamento, defeito, servico, tecnico, valor, id_cliente)
+VALUES ('2019-10-15','Ordem Serviço', 'Abandonado', 'Watercooler Redragon ', 'Fan quebrada', 'Troca da Fan', 'Roberto', 79.00, 13);
+
+INSERT INTO tb_ordem_servicos(data_os, tipo, situacao, equipamento, defeito, servico, tecnico, valor, id_cliente)
+VALUES ('2019-11-30','Ordem Serviço', 'Aguardando Aprovação', 'Processador Intel', 'Pinos tortos', 'Trocar o jogo de pino', 'Thiago', 450.00, 35);
+
+INSERT INTO tb_ordem_servicos(data_os, tipo, situacao, equipamento, defeito, servico, tecnico, valor, id_cliente)
+VALUES ('2019-07-08','Ordem Serviço', 'Na bancada', ' Placa de video Gigabite', 'Fan parou de fucionar', 'Trocar a FAN', 'Antonio', 149.89, 33);
+
+INSERT INTO tb_ordem_servicos(data_os, tipo, situacao, equipamento, defeito, servico, tecnico, valor, id_cliente)
+VALUES ('2019-08-28','Ordem Serviço', 'Aguardando peças', 'Mouse Havit', 'Sensor com defeito', 'Trocar o sensor', 'Edson', 100.00,38);

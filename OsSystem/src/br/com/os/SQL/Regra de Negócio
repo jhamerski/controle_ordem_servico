@@ -1,0 +1,9 @@
+Controle Ordem de Serviço
+
+Serve para formalizar um trabalho que será prestado ou não a um cliente.
+
+
+1. Não pode existir OS sem cliente um cliente estar vinculado.
+2. Sistema deve gerar data e hora e número de OS automáticos.
+3. Somente o gestor pode ter acesso aos relatórios.
+

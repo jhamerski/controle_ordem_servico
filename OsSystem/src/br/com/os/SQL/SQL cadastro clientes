@@ -1,0 +1,137 @@
+
+INSERT INTO tb_clientes (nome, cpf, email, telefone, endereco) 
+VALUES('Cleiton Alves Feitosa', '076.713.684-58', 'cleitonalves@gmail.com', '(48)90919-8754', 'Rua 1º de Setembro');
+
+INSERT INTO tb_clientes (nome, cpf, email, telefone, endereco) 
+VALUES('David Oliveira de Carvalho', '080.279.564-12 ', 'davidoc@outlook.com', '(48)99244-1989', 'Rua 31 de Outubro');
+
+INSERT INTO tb_clientes (nome, cpf, email, telefone, endereco) 
+VALUES('Paulo Fernando Barreto Lessa', '389.971.694-91', 'paulofernandobl@terra.com.br', '(48)98527-1119', 'Rua Abelardo Manoel Peixer');
+
+INSERT INTO tb_clientes (nome, cpf, email, telefone, endereco) 
+VALUES('Karine Maria Gonçalves Cortez', '058.423.644-17', 'karinegoncalves@terra.com.br', '(48)99910-8199', 'Rua Accácio Pinto da Luz');
+
+INSERT INTO tb_clientes (nome, cpf, email, telefone, endereco) 
+VALUES('Jairo Jose da Silva Filho', '039.112.794-26', 'jairofilho@gmail.com', '(48)88816-1098', 'Rua Acelino Pereira');
+
+INSERT INTO tb_clientes (nome, cpf, email, telefone, endereco) 
+VALUES('Denes Jose Nepumoceno', '037.529.344-25', 'denesjosenepo@hotmail.com', '(48)91218-1019', 'Rua Acesso a Paz');
+
+INSERT INTO tb_clientes (nome, cpf, email, telefone, endereco) 
+VALUES('Willamy Charles Feitosa Duque', '038.114.034-27', 'wcfeitosa@gmail.com', '(48)98772-9198', 'Rua Ada da Silva Pacheco');
+
+INSERT INTO tb_clientes (nome, cpf, email, telefone, endereco) 
+VALUES('Jose Jonathas da Silva', '073.339.744-13', 'josejsilva@gmail.com', '(48)96324-1286', 'Rua Adelino Joaquim dos Santos');
+
+INSERT INTO tb_clientes (nome, cpf, email, telefone, endereco) 
+VALUES('Gustavo Pereira dos Santos', '076.734.144-90', 'gustavopereiras@gmail.com', '(48)98989-1988', 'Servidão Adelino Roque Silveira');
+
+INSERT INTO tb_clientes (nome, cpf, email, telefone, endereco) 
+VALUES('Leandro José Paulo da Silva', '090.999.834-50', 'leandrojpsilva@gmail.com', '(48)98777-1612', 'Rua Aderson Francisco de Souza');
+
+INSERT INTO tb_clientes (nome, cpf, email, telefone, endereco) 
+VALUES('Maria Nainam Silvino Araújo dos Santos', '095.905.354-96', 'marianainam@gmail.com', '(48)98544-1091', 'Rua Adhemar da Silva');
+
+INSERT INTO tb_clientes (nome, cpf, email, telefone, endereco) 
+VALUES('Jullieny Melo de Oliveira', '060.758.154-90', 'jullienymelo@terra.com.br', '(48)98616-1989', 'Rua Adilson Antônio Hames');
+
+INSERT INTO tb_clientes (nome, cpf, email, telefone, endereco) 
+VALUES('Daniel dos Santos Rocha', '098.965.824-40', 'danielsantosr@terra.com.br', '(48)99829-1992', 'Rua Adriano Silveira de Suza');
+
+INSERT INTO tb_clientes (nome, cpf, email, telefone, endereco) 
+VALUES('James Freitas de Carvalho', '488.901.464-00', 'jamesfreitas@terra.com.br', '(48)99999-1019', 'Rua Nabor Joaquim de Souza');
+
+INSERT INTO tb_clientes (nome, cpf, email, telefone, endereco) 
+VALUES('Itamar de Carvalho Souza', '051.859.834-93', 'itamarsouza@outlook.com', '(48)98826-3198', 'Rua Natalino Nascimento');
+
+INSERT INTO tb_clientes (nome, cpf, email, telefone, endereco) 
+VALUES('Erita Feitosa de Souza', '075.140.334-24', 'eritafeirosa@terra.com.br','(48)96583-1987', 'Rua Ibirama');
+
+INSERT INTO tb_clientes (nome, cpf, email, telefone, endereco) 
+VALUES('Risaldo Gomes da Silva', '415.631.744-72', 'risaldosilva@terra.com.br', '(48)96322-1967', 'Rua Josué Orion Neto Capistrano');
+
+INSERT INTO tb_clientes (nome, cpf, email, telefone, endereco) 
+VALUES('Álvaro Rogério Batista', '545.448.744-91', 'alvarorogerio@outlook.com', '(48)98307-7919', 'Rua Jorge José da Silva');
+
+INSERT INTO tb_clientes (nome, cpf, email, telefone, endereco)
+VALUES('Rita de Cássia dos Santos', '024.361.664-39', 'ritacarrissantos@outlook.com', '(48)99215-6197', 'Rua João Ambrósio da Silva'); 
+
+INSERT INTO tb_clientes (nome, cpf, email, telefone, endereco) 
+VALUES('Alcione Monteiro Lucas Germino', '023.144.234-37', 'alcionemonteiro@outlook.com', '(48)99993-4978', 'Rua João Affonso Firmino');
+
+INSERT INTO tb_clientes (nome, cpf, email, telefone, endereco) 
+VALUES('Ana Paula de Oliveira Sousa', '023.792.854-03', 'apoliveira@outlook.com', '(48)99914-2055', 'Rua José Ramos');
+
+INSERT INTO tb_clientes (nome, cpf, email, telefone, endereco) 
+VALUES('Cláudia de Lira Melo', '036.113.634-05', 'claudialiramelo@outlook.com', '(48)91119-5981', 'Travessa Júlia Dias');
+
+INSERT INTO tb_clientes (nome, cpf, email, telefone, endereco) 
+VALUES('Pedro Vinícius de Souza Fonseca', '075.987.594-48', 'pedrofonseca@outlook.com', '(48)91127-1550', 'Rua Juvenal Pereira');
+
+INSERT INTO tb_clientes (nome, cpf, email, telefone, endereco) 
+VALUES('Fabiana Flávia da Silva', '993.881.624-04', 'fabianaflavia@outlook.com', '(48)98886-8165', 'Rua Juliana Maria da Silva');
+
+INSERT INTO tb_clientes (nome, cpf, email, telefone, endereco) 
+VALUES('Marianna Miranda Correia', '107.121.304-03', 'marianamc@gmail.com', '(48)99981-1950', 'Rua Juan Carlos Mannucci');
+
+INSERT INTO tb_clientes (nome, cpf, email, telefone, endereco) 
+VALUES('Carolina Caraciolo de Souza', '034.064.544-02', 'caccasouza@gmail.com', '(48)97729-1197', 'Rua João Vicente Medeiros');
+
+INSERT INTO tb_clientes (nome, cpf, email, telefone, endereco) 
+VALUES('Silvano Silveste do Nascimento', '042.427.324-14', 'silvanosnascimento@gmail.com', '(48)98810-9198', 'Rua Luiz Vaz de Camões');
+
+INSERT INTO tb_clientes (nome, cpf, email, telefone, endereco) 
+VALUES('Laura michele Bezerra de Lima', '059.477.724-00', 'lauramichele@gmail.com', '(48)94428-4800', 'Rua Luiz Dognini');
+
+INSERT INTO tb_clientes (nome, cpf, email, telefone, endereco) 
+VALUES('Jonas Augusto de Barros Chaves', '082.449.934-48', 'jonasaugusto@gmail.com', '(48)93327-1198', 'Rua Luiz Carlos Habkost');
+
+INSERT INTO tb_clientes (nome, cpf, email, telefone, endereco) 
+VALUES('Dorgivania Silva Aguiar', '061.195.974-76', 'dsilvaaguiar@gmail.com', '(48)95529-6986', 'Rua Lindolfo Jasper');
+
+INSERT INTO tb_clientes (nome, cpf, email, telefone, endereco) 
+VALUES('Carlos Andrade Da Silva', '086.927.584-42', 'casilvacarlos@gmail.com', '(48)99924-4988', 'Rua Lindolfo Francisco de Mello');
+
+INSERT INTO tb_clientes (nome, cpf, email, telefone, endereco) 
+VALUES('Dawson Ricardo de Oliveira Silva', '080.242.044-36', 'dawsonricardo@gmail.com', '(48)98881-8954', 'Rua Margarida de Abreu');
+
+INSERT INTO tb_clientes (nome, cpf, email, telefone, endereco) 
+VALUES('Elisabete Joaquina da Silva', '068.400.624-30', 'elisabete@gmail.com', '(48)99119-9985', 'Rua Manoel Porto Filho');
+
+INSERT INTO tb_clientes (nome, cpf, email, telefone, endereco) 
+VALUES('Maria Auxiliadora da Silva', '027.911.424-95', 'mariaauxiliadora@gmail.com', '(48)91124-5197', 'Rua Nilo Pizzani Córdova');
+
+INSERT INTO tb_clientes (nome, cpf, email, telefone, endereco) 
+VALUES('Alexsandro Vital de Almeida', '068.275.034-45', 'alexsandrovital@gmail.com', '(48)98751-0000', 'Rua Nicolau Diconsili');
+
+INSERT INTO tb_clientes (nome, cpf, email, telefone, endereco) 
+VALUES('Marcello Henryque da Silva Souza Veloso', '089.817.764-23', 'marcelohss@gmail.com', '(48)91112-6510', 'Travessa Nazareno de Oliveira Alves');
+
+INSERT INTO tb_clientes (nome, cpf, email, telefone, endereco) 
+VALUES('Luciana Dutra Cavalcanti Ricarte', '061.096.384-80', 'lucianadutra@gmail.com', '(48)98121-1945', 'Rua Nelson Inácio dos Santos');
+
+INSERT INTO tb_clientes (nome, cpf, email, telefone, endereco) 
+VALUES('Joelma Maria da Silva', '038.629.264-78', 'joelmams@outlook.com', '(48)98744-0080', 'Travessa Nelson Gonçalves');
+
+
+
+
+/*Cadastrando Ordem de Servico*/
+
+INSERT INTO tb_ordem_servicos(tipo, situacao, equipamento, defeito, servico, tecnico, valor, id_cliente)
+VALUES ('Ordem Serviço', 'Na bancada', 'Monitor LG', 'Não liga', 'Fazer orçamento', 'Eduardo', 250.00, 1);
+
+INSERT INTO tb_ordem_servicos(tipo, situacao, equipamento, defeito, servico, tecnico, valor, id_cliente)
+VALUES ('Ordem Serviço', 'Na bancada', 'CPU Gamer GigaByte', 'Barulho na ventoinha', 'Realizar a troca', 'Eduardo', 50.5, 2);
+
+INSERT INTO tb_ordem_servicos(tipo, situacao, equipamento, defeito, servico, tecnico, valor, id_cliente)
+VALUES ('Ordem Serviço', 'Na bancada', 'Mouse 4Tech', 'Botão direito quebrado', 'Fazer orçamento', 'Eduardo', 100, 3);
+
+INSERT INTO tb_ordem_servicos(tipo, situacao, equipamento, defeito, servico, tecnico, valor, id_cliente)
+VALUES ('Ordem Serviço', 'Entrega OK', 'CPU Vermelha ATX', 'Desligando constantemente', 'Fazer concerto', 'Eduardo', 320.50, 3);
+
+INSERT INTO tb_ordem_servicos(tipo, situacao, equipamento, defeito, servico, tecnico, valor, id_cliente)
+VALUES ('Ordem Serviço', 'Entrega OK', 'Mouse Abyssus', 'Scroll quebrado', 'Fazer troca', 'Eduardo', 60.00, 2);
+
+INSERT INTO tb_ordem_servicos(tipo, situacao, equipamento, defeito, servico, tecnico, valor, id_cliente)
+VALUES ('Ordem Serviço', 'Entrega OK', 'Teclado Razer', 'Espaço quebradp', 'Fazer troca', 'Eduardo', 80.50, 4);

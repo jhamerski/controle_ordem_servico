@@ -1,0 +1,40 @@
+/*Criando tabela de Clientes*/
+CREATE TABLE tb_clientes (
+  id serial primary key,
+  nome varchar(100)NOT NULL,
+  cpf varchar (20)UNIQUE NOT NULL,
+  email varchar(200),
+  telefone varchar(30)NOT NULL,
+  endereco varchar(50)NOT NULL
+);
+
+/*Criando tabela de Funcionarios*/
+CREATE TABLE tb_funcionarios (
+  id serial primary key,
+  nome varchar(100)NOT NULL,
+  cpf varchar (20) UNIQUE NOT NULL,
+  email varchar(100),
+  telefone varchar(30)NOT NULL,
+  endereco varchar(100)NOT NULL,
+  login varchar(50)NOT NULL,
+  senha varchar(150)NOT NULL,
+  perfil varchar(15)NOT NULL
+);
+
+/*Criando tabela de Ordem de Serviços*/
+CREATE TABLE tb_ordem_servicos (
+  id serial primary key,
+  data_os date NOT NULL DEFAULT CURRENT_DATE,
+  tipo varchar(20)NOT NULL,
+  situacao varchar(50),
+  equipamento varchar(200),
+  defeito varchar(200),
+  servico varchar(300),
+  tecnico varchar(50),
+  valor real,
+  id_cliente int,
+  
+  FOREIGN KEY(id_cliente) REFERENCES tb_clientes(id)
+);
+
+

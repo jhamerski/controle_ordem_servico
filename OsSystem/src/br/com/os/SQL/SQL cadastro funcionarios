@@ -1,0 +1,12 @@
+
+INSERT INTO tb_funcionarios(nome, cpf, email, telefone, endereco, login, senha, perfil) 
+VALUES ('Jonas Hamerski', '111.111.111-11','jonashamerski87@gmail.com', '(48)99639-1413', 'Alcino Manoel da Silva', 'jon', 'jon', 'Usuário');
+
+INSERT INTO tb_funcionarios(nome, cpf, email, telefone, endereco, login, senha, perfil) 
+VALUES ('Carlos Alberto Custódio', '222.222.222-22','betocac@gmail.com', '(48)99924-9499', 'Picadas do Sul', 'cac', 'cac', 'Administrador');
+
+INSERT INTO tb_funcionarios(nome, cpf, email, telefone, endereco, login, senha, perfil) 
+VALUES ('Maikel da Silva', '333.333.333-33', 'maikel@gmail.com', '(48)98483-6997', 'Centro Histórico', 'maik', 'maik', 'Administrador');
+
+INSERT INTO tb_funcionarios(nome, cpf, email, telefone, endereco, login, senha, perfil) 
+VALUES ('Sandro Eduaro', '444.444.444-44','sandross@outlook.com', '(48)98732-5698', 'Centro Histórico', 'sand', 'sand', 'Usuário');

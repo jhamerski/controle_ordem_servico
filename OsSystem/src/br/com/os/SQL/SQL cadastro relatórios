@@ -1,0 +1,16 @@
+/*FATURAMENTO a partir de uma data X*/
+SELECT SUM(valor) as "Faturamento"
+FROM tb_ordem_servicos
+WHERE data_os >= '2019-11-15' AND situacao = 'Entrega OK';
+
+/*EQUIPAMENTOS abandonados*/
+SELECT c.nome as "Cliente", c.telefone as "Contato", o.equipamento as "Equipamento", o.data_os as "Data Entrada"
+FROM tb_clientes c
+INNER JOIN tb_ordem_servicos o ON o.id_cliente = c.id
+WHERE situacao = 'Abandonado';
+
+/*TODOS CLIENTES*/
+SELECT * FROM tb_clientes
+
+/*TODOS FUNCIONÁRIOS*/
+SELECT * FROM tb_funcionarios
