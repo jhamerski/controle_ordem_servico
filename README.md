@@ -1,6 +1,6 @@
 # CONTROLE ORDEM DE SERVIÇO
 
-DESCRIÇÃO DO DOMÍNIO E APLICAÇÃO
+## DESCRIÇÃO DO DOMÍNIO E APLICAÇÃO ##
 
 O sistema CONTROLE ORDEM DE SERVIÇO, tem o objetivo de criar, atualizar e manter, dados de cliente e serviços, obedecendo regras de segurança e organização.
 
@@ -11,13 +11,13 @@ O sistema CONTROLE ORDEM DE SERVIÇO, tem o objetivo de criar, atualizar e mante
 *Somente o gestor pode ter acesso aos relatórios.
 
 ----------------
-DESENVOLVIMENTO:
+## DESENVOLVIMENTO: ##
 
 Todo o projeto foi construído obedecendo as boas práticas de desenvolvimento de software tendo como regra o padrão de arquitetura MVC (MODEL, VIEW, CONTROLLER).
 
 
 -------------------------
-TECNOLOGIAS UTILIZADAS:
+## TECNOLOGIAS UTILIZADAS: ##
 
 A linguagem de programação utilizada foi o JAVA e como IDE, foi utilizado o NetBeans.
 
@@ -27,6 +27,6 @@ Os dados ficam armazenados e controlados pelo banco de dados PostgreSQL.
 
 
 -------------------------------------------------
-CONCLUSÃO (APS - Atividade Prática Supervisionada)
+## CONCLUSÃO (APS - Atividade Prática Supervisionada) ##
 
 Trabalho apresentado no final da 3/4° fase (2° semestre de 2019) do Curso Ciência da Computação.
